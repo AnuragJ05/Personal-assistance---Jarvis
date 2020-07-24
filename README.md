@@ -10,8 +10,11 @@ pyttsx3 is a text-to-speech conversion library in Python.
 What things you need to install the software and how to install them
 
 pip install speechrecognition
+
 pip install pyttsx3
+
 pip install wikipedia
+
 pip install pyaudio
 
 
